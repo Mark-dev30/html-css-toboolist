@@ -27,6 +27,26 @@ header{
     margin: 0 auto;
 }
 
+.style_button1, .style_button2{
+    
+    font-size: 15px;
+    border-radius: 5px;
+    
+    
+}
+.style_button1{
+    background-color: #45abea;
+    color: white;
+    border: 5px solid transparent;
+    padding: 5px 10px;
+}
+
+.style_button2{
+    background-color: transparent;
+    color: gray;
+    border: 1px solid gray;
+    padding: 10px 8px; 
+}
 
 
 
