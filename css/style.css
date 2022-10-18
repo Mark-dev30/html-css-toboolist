@@ -6,7 +6,7 @@
 }
  /* header */
 header{
-    height: 70px;
+    height: 50px;
 }
 
 .img_logo{
@@ -24,16 +24,22 @@ header{
 
 main{
     background-color: #f6f8f9;
+    padding: 20px;
 }
 .container{
-    width: 70%;
+    width: 80%;
     margin: 0 auto;
     background-color: white;
+    padding-left: 30px;
+    border-radius: 5px;
 
 }
+
 /* style button */
 
-
+.container_button{
+    padding-top:  25px;
+}
 
 .style_button1, .style_button2{
     
@@ -60,6 +66,9 @@ main{
 
 
 /* new task */
+.container_task{
+    margin-top: 25px;
+}
 .container_1task{
     margin-top: 30px;
 }
