@@ -68,7 +68,7 @@ main{
 }
 
 li{
-    margin-top: 25px;
+    margin-top: 20px;
 }
 
 
@@ -99,4 +99,24 @@ li{
     color: white;
 }
 
+/* color def task */
+.ed_task{
+    background-color: #45abea;
+}
 
+#q1_task{
+    background-color: #9c72e4;
+}
+
+#re_task{
+    background-color: #64c0a9;
+}
+#mo_task{
+    background-color: #f29e33;
+}
+#we_task{
+    background-color: #d863a1;
+}
+#sa_task{
+    background-color: #b0c926;
+}
