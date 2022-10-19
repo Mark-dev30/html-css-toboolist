@@ -14,13 +14,14 @@ header{
     height: 40px;
     margin-left: 20px;
     margin-top: 5px;
+    vertical-align: middle;
 }
 
 .logo_tobo{
     display: inline;
     font-size: 30px;
-    position: absolute;
     margin-top: 10px;
+    vertical-align: middle;
 }
 
 /* main */
@@ -42,13 +43,13 @@ main{
 
 .container_button{
     padding-top:  25px;
+    border-bottom: 2px solid #f6f8f9;
 }
 
 .style_button1, .style_button2{
-    
+    margin-bottom:  15px;
     font-size: 15px;
-    border-radius: 5px;
-       
+    border-radius: 5px;   
 }
 
 .style_button1{
